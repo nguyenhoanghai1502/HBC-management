@@ -1,0 +1,53 @@
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.FrmSever.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.FrmSever.resources
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+D:\Desktop\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.FrmSever.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\DOANCUOIKI (1)\New WinRAR archive\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.FrmSever.resources
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+D:\Desktop\DOANCUOIKI\18520701 (4)\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.FrmSever.resources
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\Administrator\Desktop\WIN5\win5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
